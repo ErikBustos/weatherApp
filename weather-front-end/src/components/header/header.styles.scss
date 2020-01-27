@@ -1,0 +1,11 @@
+.header {
+    align-items: center;
+    justify-content: center;        
+    font-family: 'Alata', sans-serif;
+    font-size: 100px;
+  }
+  .center {
+    display: inline-block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
